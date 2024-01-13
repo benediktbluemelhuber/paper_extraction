@@ -1,0 +1,8 @@
+langchain
+pypdf
+replicate
+streamlit
+python-dotenv
+pandas
+openai
+xlsxwriter
